@@ -16,7 +16,7 @@ Chat room actor behaviour:
 
 
 ### Motivation
-This demo application is created primarly for educational purpose and is not an original work. It is based on Chat room example from book:
+This demo application is created primarily for educational purpose and is not an original work. It is based on Chat room example from book:
   - *Learning Akka, Jason Goodwin, ISBN 978-1-78439-300-7*
 
 		
